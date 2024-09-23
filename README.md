@@ -2,3 +2,4 @@
 ### ba.olivares@duocuc.cl
 
 # conflicto resuelto!!!
+# navegación lista
